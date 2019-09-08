@@ -5,7 +5,7 @@
 
 #import <CoreML/CoreML.h>
 #import <Vision/Vision.h>
-#import <TesseractOCR/TesseractOCR.h>
+#import "TesseractOCR.h"
 
 @implementation RNTextDetector
 
